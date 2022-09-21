@@ -1,0 +1,53 @@
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ACME Corporation</title>
+    <link>http://example.org/</link>
+    <description>Recent content on ACME Corporation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <managingEditor>contact@example.org (Acme Corporation)</managingEditor>
+    <webMaster>contact@example.org (Acme Corporation)</webMaster>
+    <lastBuildDate>Wed, 21 Sep 2022 09:45:25 +0200</lastBuildDate>
+    
+        <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+<title>Usa</title>
+<link>http://example.org/viajes/usa/</link>
+<pubDate>Wed, 21 Sep 2022 09:45:25 +0200</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>http://example.org/viajes/usa/</guid>
+<description></description>
+<category></category></item>
+    
+    <item>
+<title>Graus</title>
+<link>http://example.org/viajes/graus/</link>
+<pubDate>Wed, 21 Sep 2022 09:22:25 +0200</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>http://example.org/viajes/graus/</guid>
+<description></description>
+<category></category></item>
+    
+    <item>
+<title></title>
+<link>http://example.org/tareamarkdown/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>http://example.org/tareamarkdown/</guid>
+<description></description>
+<category></category></item>
+    
+    <item>
+<title></title>
+<link>http://example.org/testmd/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>http://example.org/testmd/</guid>
+<description></description>
+<category></category></item>
+    
+  </channel>
+</rss>

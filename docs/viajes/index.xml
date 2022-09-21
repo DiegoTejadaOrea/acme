@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Viajes on ACME Corporation</title>
+    <link>http://example.org/viajes/</link>
+    <description>Recent content in Viajes on ACME Corporation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <managingEditor>contact@example.org (Acme Corporation)</managingEditor>
+    <webMaster>contact@example.org (Acme Corporation)</webMaster>
+    <lastBuildDate>Wed, 21 Sep 2022 09:45:25 +0200</lastBuildDate><atom:link href="http://example.org/viajes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Usa</title>
+      <link>http://example.org/viajes/usa/</link>
+      <pubDate>Wed, 21 Sep 2022 09:45:25 +0200</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>http://example.org/viajes/usa/</guid>
+      <description>Georgia Savannah Savannah es una ciudad de la costa de Georgia (EE. UU.), separada de Carolina del Sur por el río Savannah. Destaca por sus cuidados parques, coches de caballos y arquitectura prebélica. El distrito histórico, donde abundan las plazas adoquinadas y los parques como el de Forsyth, se encuentra a la sombra de robles cubiertos de musgo español. En el centro de este distrito tan pintoresco se encuentra un monumento emblemático del neogótico, la catedral de San Juan Bautista.</description>
+    </item>
+    
+    <item>
+      <title>Graus</title>
+      <link>http://example.org/viajes/graus/</link>
+      <pubDate>Wed, 21 Sep 2022 09:22:25 +0200</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>http://example.org/viajes/graus/</guid>
+      <description>Presa de Graus El embalse de Graus está situado en el término municipal de Lladorre, en la comarca del Pallars Sobirá.
+Junto con el embalse de Tavascan, forma el complejo hidráulico del Alto Cardós. El funcionamiento de este está totalmente automatizado y teledirigido desde la central de mando de FECSA/ENDESA en Lérida, desde donde se abren y cierran las válvulas y compuertas, para regular el agua que moverá las correspondientes turbinas.</description>
+    </item>
+    
+  </channel>
+</rss>
