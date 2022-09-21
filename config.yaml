@@ -1,4 +1,4 @@
-baseURL: http://example.org/
+baseURL: /acme
 languageCode: es-es
 title: ACME Corporation
 theme: Eclectic
