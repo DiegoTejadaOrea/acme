@@ -2,7 +2,7 @@
   xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ACME Corporation</title>
-    <link>http://example.org/</link>
+    <link>acme/</link>
     <description>Recent content on ACME Corporation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
@@ -10,42 +10,114 @@
     <webMaster>contact@example.org (Acme Corporation)</webMaster>
     <lastBuildDate>Wed, 21 Sep 2022 09:45:25 +0200</lastBuildDate>
     
-        <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="acme/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-<title>Usa</title>
-<link>http://example.org/viajes/usa/</link>
+<title>Contato</title>
+<link>acme/contacto/</link>
+<pubDate>Thu, 22 Sep 2022 12:25:45 +0200</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>acme/contacto/</guid>
+<description></description>
+<category></category></item>
+    
+    <item>
+<title>Madrid</title>
+<link>acme/viajes/madrid/</link>
 <pubDate>Wed, 21 Sep 2022 09:45:25 +0200</pubDate>
       <author>contact@example.org (Acme Corporation)</author>
-      <guid>http://example.org/viajes/usa/</guid>
+      <guid>acme/viajes/madrid/</guid>
+<description></description>
+<category></category></item>
+    
+    <item>
+<title>Usa</title>
+<link>acme/viajes/usa/</link>
+<pubDate>Wed, 21 Sep 2022 09:45:25 +0200</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>acme/viajes/usa/</guid>
+<description></description>
+<category></category></item>
+    
+    <item>
+<title>Curriculum</title>
+<link>acme/curriculum/</link>
+<pubDate>Wed, 21 Sep 2022 09:22:25 +0200</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>acme/curriculum/</guid>
 <description></description>
 <category></category></item>
     
     <item>
 <title>Graus</title>
-<link>http://example.org/viajes/graus/</link>
+<link>acme/viajes/graus/</link>
 <pubDate>Wed, 21 Sep 2022 09:22:25 +0200</pubDate>
       <author>contact@example.org (Acme Corporation)</author>
-      <guid>http://example.org/viajes/graus/</guid>
+      <guid>acme/viajes/graus/</guid>
 <description></description>
 <category></category></item>
     
     <item>
 <title></title>
-<link>http://example.org/tareamarkdown/</link>
+<link>acme/acerca-de/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>contact@example.org (Acme Corporation)</author>
-      <guid>http://example.org/tareamarkdown/</guid>
+      <guid>acme/acerca-de/</guid>
 <description></description>
 <category></category></item>
     
     <item>
 <title></title>
-<link>http://example.org/testmd/</link>
+<link>acme/blog/blog1/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>contact@example.org (Acme Corporation)</author>
-      <guid>http://example.org/testmd/</guid>
+      <guid>acme/blog/blog1/</guid>
+<description></description>
+<category></category></item>
+    
+    <item>
+<title></title>
+<link>acme/blog/blog2/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>acme/blog/blog2/</guid>
+<description></description>
+<category></category></item>
+    
+    <item>
+<title></title>
+<link>acme/blog/blog3/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>acme/blog/blog3/</guid>
+<description></description>
+<category></category></item>
+    
+    <item>
+<title></title>
+<link>acme/blog/blog4/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>acme/blog/blog4/</guid>
+<description></description>
+<category></category></item>
+    
+    <item>
+<title></title>
+<link>acme/tareamarkdown/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>acme/tareamarkdown/</guid>
+<description></description>
+<category></category></item>
+    
+    <item>
+<title></title>
+<link>acme/testmd/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>acme/testmd/</guid>
 <description></description>
 <category></category></item>
     
