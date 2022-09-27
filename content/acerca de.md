@@ -22,6 +22,10 @@ A través de la búsqueda de la plena satisfacción de nuestros clientes en cada
 
 Ser un referente en soluciones técnicas, en la gestión profesionalizada y en la calidad de la ejecución de proyectos.
 
+### **Referencias**
+
+Ser un referente es trabajo de años y experiencia, todo gracias a Diego Tejada.
+
 
 **El CLIENTE** es el eje sobre el que giran todas nuestras decisiones y actuaciones.
 
