@@ -10,7 +10,7 @@ tejadaoreadiego@gmail.com
 
 **Teléfono**
 
-999 99 99 99
+999 00 00 00
 
 **Ubicación**
 
