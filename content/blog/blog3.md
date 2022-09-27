@@ -9,7 +9,7 @@ En cada artículo se muestra propuestas de lugares imprescindibles que visitar, 
 Como este es un **blog de viajes creativos por el mundo,** también encontraréis propuestas diferentes y artísticas para inspiraros. En ocasiones estas propuestas estarán intercaladas dentro de los artículos, otras, en artículos dedicados, los cuales se encuentran todos reunidos en la sección del blog «Viajes creativos».
 
 ### Artículos de la guía de viaje a Madrid por categorías:
-Estas son las distintas categorías que vais a encontrar en este apartado del blog de viajes por Estados Unidos
+Estas son las distintas categorías que vais a encontrar en este apartado del blog de viajes por Madrid de Diego.
 
 Madrid - España
 
