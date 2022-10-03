@@ -1,7 +1,7 @@
 baseURL: acme
 languageCode: es-es
 title: ACME Corporation
-theme: Eclectic
+theme: basico
 
 author: 
   facebook: "https://facebook.com/example" 
@@ -34,6 +34,13 @@ menu:
       name: Blog
       url: /blog 
       weight: 40
+    - identifier: peliculas 
+      name: Peliculas
+      url: /peliculas
+      weight: 90
+
+
+      
 params: 
   color: "#4f46e5"
   copyright: "Copyright &copy; 2022 Acme Corporation. Todos los derechos reservados."
