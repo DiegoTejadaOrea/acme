@@ -1,0 +1,32 @@
+<!-- <div class="container" id="map" style="width:400px;height:400px;background:yellow">
+   <h1 class="titulo">{{ .Title }}</h1> 
+ {{ .Content }}
+
+  {{ $url :=
+  "https://docs.google.com/spreadsheets/d/e/2PACX-1vSCtaInFtz0Y7hOP9_tWTvrwn5vMqeKcBk9qWZLIsp4v1rB3GiM178iRHckOn4BC2s9pkW6GfRSqiYK/pub?output=csv"}}
+  {{ $sep := "," }}
+
+  {{ range $i, $r := getCSV $sep $url }}
+  {{ $ciudad := index $r 2}}
+    {{ $tipo := index $r 6}}
+      {{ if eq $ciudad "Zaragoza"}}
+         <br>
+
+  <script>
+    function myMap() {
+      var uluru = { lat: "{{ index $r 1}}" - latitude, lng: "{{ index $r 3 }}" - longitude };
+      var map = new google.maps.Map(document.getElementById('map'), {
+        zoom: 9,
+        center: uluru
+      });
+      var marker = new google.maps.Marker({
+        position: uluru,
+        map: map
+      });
+    }
+  </script>
+  <script src="https://maps.googleapis.com/maps/api/js?key=your-api-key&callback=myMap"></script>
+
+  {{ end }}
+  {{ end }}
+</div> -->
