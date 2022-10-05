@@ -30,14 +30,14 @@ menu:
       name: Viajes
       url: /viajes 
       weight: 60
-    - identifier: blog 
-      name: Blog
-      url: /blog 
-      weight: 40
     - identifier: peliculas 
       name: Peliculas
       url: /peliculas
       weight: 90
+    - identifier: centros 
+      name: Centros
+      url: /centros
+      weight: 99
 
 
       
