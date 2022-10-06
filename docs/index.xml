@@ -1,53 +1,192 @@
-<rss version="2.0"
-  xmlns:atom="http://www.w3.org/2005/Atom">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ACME Corporation</title>
-    <link>http://example.org/</link>
-    <description>Recent content on ACME Corporation</description>
+    <title>Página principal on ACME Corporation</title>
+    <link>acme/</link>
+    <description>Recent content in Página principal on ACME Corporation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
     <managingEditor>contact@example.org (Acme Corporation)</managingEditor>
     <webMaster>contact@example.org (Acme Corporation)</webMaster>
-    <lastBuildDate>Wed, 21 Sep 2022 09:45:25 +0200</lastBuildDate>
-    
-        <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Mon, 26 Sep 2022 08:53:45 +0200</lastBuildDate><atom:link href="acme/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Instituos</title>
+      <link>acme/centros/instituos/</link>
+      <pubDate>Mon, 03 Oct 2022 10:58:27 +0200</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>acme/centros/instituos/</guid>
+      <description></description>
+    </item>
     
     <item>
-<title>Usa</title>
-<link>http://example.org/viajes/usa/</link>
-<pubDate>Wed, 21 Sep 2022 09:45:25 +0200</pubDate>
+      <title>Mas_vistas</title>
+      <link>acme/peliculas/mas-valoradas/</link>
+      <pubDate>Mon, 03 Oct 2022 09:37:56 +0200</pubDate>
       <author>contact@example.org (Acme Corporation)</author>
-      <guid>http://example.org/viajes/usa/</guid>
-<description></description>
-<category></category></item>
+      <guid>acme/peliculas/mas-valoradas/</guid>
+      <description>Lista de IMDb </description>
+    </item>
     
     <item>
-<title>Graus</title>
-<link>http://example.org/viajes/graus/</link>
-<pubDate>Wed, 21 Sep 2022 09:22:25 +0200</pubDate>
+      <title>Television</title>
+      <link>acme/television/television/</link>
+      <pubDate>Thu, 29 Sep 2022 12:16:46 +0200</pubDate>
       <author>contact@example.org (Acme Corporation)</author>
-      <guid>http://example.org/viajes/graus/</guid>
-<description></description>
-<category></category></item>
+      <guid>acme/television/television/</guid>
+      <description></description>
+    </item>
     
     <item>
-<title></title>
-<link>http://example.org/tareamarkdown/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Primer Post</title>
+      <link>acme/blog/primer-post/</link>
+      <pubDate>Mon, 26 Sep 2022 10:55:16 +0200</pubDate>
       <author>contact@example.org (Acme Corporation)</author>
-      <guid>http://example.org/tareamarkdown/</guid>
-<description></description>
-<category></category></item>
+      <guid>acme/blog/primer-post/</guid>
+      <description></description>
+    </item>
     
     <item>
-<title></title>
-<link>http://example.org/testmd/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Contacto</title>
+      <link>acme/contacto/</link>
+      <pubDate>Thu, 22 Sep 2022 12:25:45 +0200</pubDate>
       <author>contact@example.org (Acme Corporation)</author>
-      <guid>http://example.org/testmd/</guid>
-<description></description>
-<category></category></item>
+      <guid>acme/contacto/</guid>
+      <description>Email
+tejadaoreadiego@gmail.com
+Teléfono
+999 00 00 00
+Ubicación
+C. de Jarque de Moncayo, 10, 50012 Zaragoza
+Horario
+De lunes a viernes: de 9:00 a 14:00 h.
+Ingrese su nombre: Seleccione el máximo nivel de estudios que tiene:
+Sin estudios
+Primaria
+Secundaria
+Universidad
+MAPA Sube tu archivo Nombre:
+Email:
+Mensaje:</description>
+    </item>
+    
+    <item>
+      <title>Contributors</title>
+      <link>acme/contributors/</link>
+      <pubDate>Thu, 22 Sep 2022 12:25:45 +0200</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>acme/contributors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Madrid</title>
+      <link>acme/viajes/madrid/</link>
+      <pubDate>Wed, 21 Sep 2022 09:45:25 +0200</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>acme/viajes/madrid/</guid>
+      <description>Madrid FMS Internacional Una competencia internacional de freestyle rap organizada por The Urban Roosters, conocida por ser uno de las internacionales que busca reunir a los mejores freestylers de cada liga de FMS, para competir entre si.</description>
+    </item>
+    
+    <item>
+      <title>Usa</title>
+      <link>acme/viajes/usa/</link>
+      <pubDate>Wed, 21 Sep 2022 09:45:25 +0200</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>acme/viajes/usa/</guid>
+      <description>Georgia Savannah Savannah es una ciudad de la costa de Georgia (EE. UU.), separada de Carolina del Sur por el río Savannah. Destaca por sus cuidados parques, coches de caballos y arquitectura prebélica. El distrito histórico, donde abundan las plazas adoquinadas y los parques como el de Forsyth, se encuentra a la sombra de robles cubiertos de musgo español. En el centro de este distrito tan pintoresco se encuentra un monumento emblemático del neogótico, la catedral de San Juan Bautista.</description>
+    </item>
+    
+    <item>
+      <title>Curriculum</title>
+      <link>acme/curriculum/</link>
+      <pubDate>Wed, 21 Sep 2022 09:22:25 +0200</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>acme/curriculum/</guid>
+      <description>Mi curiculum Mi nombre es Diego Tejada Orea, actualemnte estudio DAW en los Enlaces, tengo 19 años y me forme en las practicas de grado medio en la Camara del Comercio de Zaragoza, en la oficina OPME-c.
+Tengo la titulación de B2 y estoy formandome para obtener el C1 y seguir avanzando para intentar entrar en una buena empresa.</description>
+    </item>
+    
+    <item>
+      <title>Graus</title>
+      <link>acme/viajes/graus/</link>
+      <pubDate>Wed, 21 Sep 2022 09:22:25 +0200</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>acme/viajes/graus/</guid>
+      <description>Presa de Graus El embalse de Graus está situado en el término municipal de Lladorre, en la comarca del Pallars Sobirá.
+Junto con el embalse de Tavascan, forma el complejo hidráulico del Alto Cardós. El funcionamiento de este está totalmente automatizado y teledirigido desde la central de mando de FECSA/ENDESA en Lérida, desde donde se abren y cierran las válvulas y compuertas, para regular el agua que moverá las correspondientes turbinas.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>acme/acerca-de/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>acme/acerca-de/</guid>
+      <description>¿Quiénes somos? Somos una estructura empresarial enmarcada dentro del Grupo de Empresas El Corte Inglés. Con más de 60 años de actividad comercial en los sectores a los que da servicio. Un equipo multidisciplinar de profesionales especialistas en aportar soluciones a empresas y organismos públicos en los siguientes ámbitos de actividad:
+Obras y Equipamientos.
+Vestuario profesional.
+Misión Es generar a la sociedad que nos rodea:
+Crecimiento Riqueza Empleo A través de la búsqueda de la plena satisfacción de nuestros clientes en cada proyecto.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>acme/blog/blog1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>acme/blog/blog1/</guid>
+      <description>EEUU GUÍA Y BLOG DE VIAJES POR EEUU En esta sección se encuentran todos los artículos de mi blog que forman parte de la guía de viajes por EEUU. En ella encontraréis información útil para viajar por Estados Unidos (encontraréis, por ejemplo, guías con todo lo que ver en Nueva York en 5 días, lo que ver en la Costa Oeste de EEUU o cómo visitar el Gran Cañón del Colorado)</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>acme/blog/blog2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>acme/blog/blog2/</guid>
+      <description>GRAUS GUÍA Y BLOG DE VIAJES POR GRAUS En esta sección se encuentran todos los artículos de mi blog que forman parte de la guía de viajes por Graus. En ella encontraréis información útil para viajar por Estados Unidos (encontraréis, por ejemplo, guías con todo lo que ver en Nueva York en 5 días, lo que ver en la Costa Oeste de Graus o cómo visitar el Gran Cañón del Colorado)</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>acme/blog/blog3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>acme/blog/blog3/</guid>
+      <description>MADRID GUÍA Y BLOG DE VIAJES POR MADRID En esta sección se encuentran todos los artículos de mi blog que forman parte de la guía de viajes por Madrid. En ella encontraréis información útil para viajar por Estados Unidos (encontraréis, por ejemplo, guías con todo lo que ver en Nueva York en 5 días, lo que ver en la Costa Oeste de EEUU o cómo visitar el Gran Cañón del Colorado)</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>acme/blog/blog4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>acme/blog/blog4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>acme/tareas/tareamarkdown/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>acme/tareas/tareamarkdown/</guid>
+      <description>First Header 2 This is a normal paragraph following a header. Knausgaard kale chips snackwave microdosing cronut copper mug swag synth bitters letterpress glossier craft beer. Mumblecore bushwick authentic gochujang vegan chambray meditation jean shorts irony. Viral farm-to-table kale chips, pork belly palo santo distillery activated charcoal aesthetic jianbing air plant woke lomo VHS organic. Tattooed locavore succulents heirloom, small batch sriracha echo park DIY af. Shaman you probably haven’t heard of them copper mug, crucifix green juice vape single-origin coffee brunch actually.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>acme/tareas/testmd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>acme/tareas/testmd/</guid>
+      <description>Título 1 Título 2 Ultimo Titulo Negrita / cursiva / tachado
+This is a subscript text
+RESALTADO
+Ver directorio ls - l
+def cuadrado(x): return x*x &amp;lt;h1&amp;gt;Título 1&amp;lt;h1&amp;gt; This site was built using GitHub Pages. Contribution guidelines for this project
+First list item First nested list item Second nested list item George Washington John Adams Thomas Jefferson James Madison James Monroe John Quincy Adams </description>
+    </item>
     
   </channel>
 </rss>

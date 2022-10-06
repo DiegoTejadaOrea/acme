@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Peliculas on ACME Corporation</title>
+    <link>acme/peliculas/</link>
+    <description>Recent content in Peliculas on ACME Corporation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <managingEditor>contact@example.org (Acme Corporation)</managingEditor>
+    <webMaster>contact@example.org (Acme Corporation)</webMaster>
+    <lastBuildDate>Mon, 03 Oct 2022 09:37:56 +0200</lastBuildDate><atom:link href="acme/peliculas/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mas_vistas</title>
+      <link>acme/peliculas/mas-valoradas/</link>
+      <pubDate>Mon, 03 Oct 2022 09:37:56 +0200</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>acme/peliculas/mas-valoradas/</guid>
+      <description>Lista de IMDb </description>
+    </item>
+    
+  </channel>
+</rss>
